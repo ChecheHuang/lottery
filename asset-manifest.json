@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.e6c13ad2.css",
-    "main.js": "./static/js/main.13c086ab.js",
-    "static/media/show.png": "./static/media/show.ee8c40bfaa5bf4d1ce26.png",
-    "static/media/logo.png": "./static/media/logo.21027913dc99e897394e.png",
-    "index.html": "./index.html",
-    "main.e6c13ad2.css.map": "./static/css/main.e6c13ad2.css.map",
-    "main.13c086ab.js.map": "./static/js/main.13c086ab.js.map"
+    "main.css": "/lottery/static/css/main.e6c13ad2.css",
+    "main.js": "/lottery/static/js/main.bcf4a1ed.js",
+    "static/media/show.png": "/lottery/static/media/show.ee8c40bfaa5bf4d1ce26.png",
+    "static/media/logo.png": "/lottery/static/media/logo.21027913dc99e897394e.png",
+    "index.html": "/lottery/index.html",
+    "main.e6c13ad2.css.map": "/lottery/static/css/main.e6c13ad2.css.map",
+    "main.bcf4a1ed.js.map": "/lottery/static/js/main.bcf4a1ed.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.13c086ab.js"
+    "static/js/main.bcf4a1ed.js"
   ]
 }
